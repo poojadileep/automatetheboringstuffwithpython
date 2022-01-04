@@ -1,0 +1,55 @@
+
+  
+01 : True , False
+02 : And ,Or ,Not
+03 :  
+       1. And
+     True  and True       True
+     True  and False      False
+     False and False      False
+     False and True       False
+     
+     2. Or
+    True  or True         True
+    True  or False        True
+    False or True         True
+    False or False        False
+     
+     3. Not
+    Not True     False
+    Not False    True
+    
+04 : False
+     False
+     True
+     False
+     False
+     True
+05 : >,<,==,!=,<=,>=
+06 : Equal to operator(=) check wheather the values are equal or not.
+     Assignment operator(=) assigns that the values are equal.
+07 : Conditions are made when there are 2 or more possibilities, And we need to check which one satisfies to get the answer and in
+     which way should the program run.      
+09 : spam=int(input())
+     if spam==1 :
+       print('Hello')
+     elif spam==2 :
+        print('Howdy')
+     else :
+        print("Greetings!")    
+10 : cntrl + C
+11 : Break allows to exit the loop.
+     Continue allows to continue the loop with the next iteration.
+12 : range(10) : It ranges upto 10
+     range(0,10) : It gives values from 0 to 10
+     range(0,10,1) : It will also give values from 0 to 10 and here it is mentioned that the values increases by 1 at each
+     step.     
+13 : Using for loop :
+        for i in range(1,10,1) :
+          print(i)    
+     Using While loop :
+        i = 1
+        while i<=10 :
+          print(i)
+          i += 1
+14 :   spam.bacon()   
